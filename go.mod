@@ -1,1 +1,1 @@
-module github/WowVeryLogin/testmod
+module github.com/WowVeryLogin/testmod
